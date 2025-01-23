@@ -1,0 +1,103 @@
+body {
+    position: relative;
+    width: 1600px;
+    height: 2250px;
+    background: #FFFFFF;
+}
+
+header {
+    position: absolute;
+    width: 1600px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+}
+
+.header_container {
+    position: absolute;
+    width: 1600px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #EDA418 47.4%, rgba(237, 164, 24, 0) 100%);
+}
+#logo {
+    /* Логотип */
+
+position: absolute;
+width: 354.42px;
+height: 72.51px;
+left: 130px;
+top: 105px;
+}
+
+#logo_text {
+    /* Vintage Food */
+
+position: absolute;
+width: 288.42px;
+height: 60.51px;
+left: 196px;
+top: 117px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+h1 {
+position: absolute;
+width: 572px;
+height: 63px;
+left: 130px;
+top: 367px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+p {
+    /* Сделай первый заказ и получи скидку 50% */
+
+position: absolute;
+width: 497px;
+height: 35px;
+left: 130px;
+top: 459px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+}
+button {
+    /* Кнопка "Заказать" */
+
+position: absolute;
+width: 180.86px;
+height: 60px;
+left: 130px;
+top: 523px;
+}
+.navbar_img {
+    /* Фото "Бургер" */
+
+position: absolute;
+width: 642.69px;
+height: 600px;
+left: 740px;
+top: 194px;
+
+background: url(80c8a7c7e8d548ba839bac6a69abde7f.png);
+
+}
